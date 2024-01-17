@@ -8,9 +8,7 @@ InfraCloud is a company focused on Infrastructure technologies - we have worked 
 
 ### Making Amazing Products 📦
 
-|[![Fission logo](https://www.infracloud.io/assets/img/infracloud-org-github-repo/fission.png 'Fission')](https://www.infracloud.io/serverless-functions-kubernetes/)
-|[![Krius logo](https://www.infracloud.io/assets/img/infracloud-org-github-repo/krius.png 'Krius')](https://www.infracloud.io/)
-|
+|[![Fission logo](https://www.infracloud.io/assets/img/infracloud-org-github-repo/fission.png 'Fission')](https://www.infracloud.io/serverless-functions-kubernetes/)|[![Krius logo](https://www.infracloud.io/assets/img/infracloud-org-github-repo/krius.png 'Krius')](https://www.infracloud.io/)|
 |:---:|:---:|
 |**Fission**|**Krius**|
 |An open source serverless platform for Kubernetes – and enables an AWS Lambda-like easy experience for anyone new to the Kubernetes platform.| A command line interface tool designed to implement all the observability stack components (namely Prometheus and Thanos so far) is needed.
@@ -32,7 +30,7 @@ Some of our achievements 💪
 - One of the very 1st CKA Engineers is from InfraCloud
 - 4 CKS, 51 CKA & 19 Certified Kubernetes App Developers & counting
 
-[![awards & achievements](https://www.infracloud.io/assets/img/infracloud-org-github-repo/awards-and-achievements.png 'awards & achievements')(https://www.infracloud.io/about-us/)
+[![awards and achievements](https://www.infracloud.io/assets/img/infracloud-org-github-repo/awards-and-achievements.png 'awards & achievements')](https://www.infracloud.io/about-us/)
 
 
 ## Learn more about our creations
