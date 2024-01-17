@@ -1,4 +1,4 @@
-![InfraCloud logo](https://www.infracloud.io/assets/img/infracloud-org-github-repo/unleash-growth.png)
+[![InfraCloud logo](https://www.infracloud.io/assets/img/infracloud-org-github-repo/unleash-growth.png 'InfraCloud homepage')](https://www.infracloud.io/)
 
 # Hola` 👋
 
