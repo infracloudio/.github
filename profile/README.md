@@ -8,7 +8,9 @@ InfraCloud is a company focused on Infrastructure technologies - we have worked 
 
 ### Making Amazing Products 📦
 
-|![Fission](https://www.infracloud.io/assets/img/infracloud-org-github-repo/fission.png)|![Krius](https://www.infracloud.io/assets/img/infracloud-org-github-repo/krius.png)|
+|[![Fission logo](https://www.infracloud.io/assets/img/infracloud-org-github-repo/fission.png 'Fission')](https://www.infracloud.io/serverless-functions-kubernetes/)
+|[![Krius logo](https://www.infracloud.io/assets/img/infracloud-org-github-repo/krius.png 'Krius')](https://www.infracloud.io/)
+|
 |:---:|:---:|
 |**Fission**|**Krius**|
 |An open source serverless platform for Kubernetes – and enables an AWS Lambda-like easy experience for anyone new to the Kubernetes platform.| A command line interface tool designed to implement all the observability stack components (namely Prometheus and Thanos so far) is needed.
@@ -16,7 +18,7 @@ InfraCloud is a company focused on Infrastructure technologies - we have worked 
 ### Paying it Forward to the OSS Community 🤖
 Our developers are actively contributing to cloud-native open source projects to define and shape the future of Infrastructure.
 
-![cloudnative open source projects contributions](https://www.infracloud.io/assets/img/infracloud-org-github-repo/oss-contributions.png)
+[![cloud native open source projects contributions](https://www.infracloud.io/assets/img/infracloud-org-github-repo/oss-contributions.png 'OSS contributions')](https://www.infracloud.io/cloud-native-open-source-contributions/)
 
 
 ## Awards & Achievements 🏆
@@ -30,12 +32,12 @@ Some of our achievements 💪
 - One of the very 1st CKA Engineers is from InfraCloud
 - 4 CKS, 51 CKA & 19 Certified Kubernetes App Developers & counting
 
-![awards & achievements](https://www.infracloud.io/assets/img/infracloud-org-github-repo/awards-and-achievements.png)
+[![awards & achievements](https://www.infracloud.io/assets/img/infracloud-org-github-repo/awards-and-achievements.png 'awards & achievements')(https://www.infracloud.io/about-us/)
 
 
 ## Learn more about our creations
 
-![InfraCloud resources](https://www.infracloud.io/assets/img/infracloud-org-github-repo/infracloud-creations.png)
+[![InfraCloud resources](https://www.infracloud.io/assets/img/infracloud-org-github-repo/infracloud-creations.png 'InfraCloud resources')](https://www.infracloud.io/)
 
 - [School of Kubernetes](https://www.infracloud.io/kubernetes-school/) 📚: 100% Free Kubernetes courses, training, and hands-on knowledge.
 - [Mentoring Sessions](https://www.infracloud.io/career-cloud-native/) 🧑‍🏫: Our mentors helping accelerate your cloud native career or making the shift.
@@ -88,7 +90,7 @@ Some of our achievements 💪
 
 Our culture drives everything we do at InfraCloud. Our four core values are not just words, but a foundation of the [way Infranauts work and spend time at InfraCloud](https://www.infracloud.io/the-infracloud-way/), proven with the award of “Best places to work on Glassdoor” & "Great Place to Work" certification.
 
-![Glassdoor InfraCloud](https://www.infracloud.io/assets/img/infracloud-org-github-repo/glassdoor-ratings.png)
+[![InfraCloud glassdoor](https://www.infracloud.io/assets/img/infracloud-org-github-repo/glassdoor-ratings.png 'InfraCloud glassdoor')](https://www.infracloud.io/careers/)
 
 
 Join us as we build a company that approaches work from a fresh perspective 🌿 We are always looking for talent to [join us](https://www.infracloud.io/careers/).
