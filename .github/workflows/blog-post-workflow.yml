@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 0 * * 2,6' # At 12:00 AM UTC, only on Tuesday and Saturday
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
@@ -17,6 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         id: blog-post-workflow
         with:
+          readme_path: "./profile/README.md"
           max_post_count: 2
           feed_list: "https://www.infracloud.io/feed.xml"
           custom_tags: "author/author/name,published/published,image/image/image,summary/summary/summary"
