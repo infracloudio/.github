@@ -52,31 +52,31 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/port-vs-backstage-idp-comparison/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/port-vs-backstage/port-vs-backstage-1200x628.png">
+    <a href="https://www.infracloud.io/blogs/ab-testing-with-linkerd-flagger-using-dynamic-routing/">
+      <img width="250px" src="">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/port-vs-backstage-idp-comparison/">Port vs Backstage - Choosing Your Internal Developer Portal</a> <br/>
-    by Vaibhav Gupta
+    <a href="https://www.infracloud.io/blogs/ab-testing-with-linkerd-flagger-using-dynamic-routing/">A/B Testing with Linkerd and Flagger using Dynamic Routing</a> <br/>
+    by [&quot;Pranoy Kundu&quot;, &quot;Hitesh Wani&quot;]
     <br/>
     <br/>
-    <p> Explore the strengths and challenges of two leading IDPs, Backstage and Port, and choose the best for your organization. </p>
+    <p> Learn what is A/B testing, its importance, and how to perform A/B testing with Linkerd and Flagger using dynamic routing on a microservice-based application. </p>
   </td>
 </tr>
 
 <tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/root-cause-chronicles-connection-collapse/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/root-cause-chronicles-connection-collapse/root-cause-chronicles-connection-collapse-1200x628.png">
+    <a href="https://www.infracloud.io/blogs/root-cause-chronicles-quivering-queue/">
+      <img width="250px" src="">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/root-cause-chronicles-connection-collapse/">Root Cause Chronicles: Connection Collapse</a> <br/>
+    <a href="https://www.infracloud.io/blogs/root-cause-chronicles-quivering-queue/">Root Cause Chronicles: Quivering Queue</a> <br/>
     by Joy Bhattacherjee
     <br/>
     <br/>
-    <p> What does it take to troubleshoot a complex web of cloud-native microservices? We take you on a BTS journey of an incident with SREs on the hot seat. </p>
+    <p> Join the SRE BTS as they navigate the complex world of cloud-native microservices to investigate the cause of site outages and ways to fix them. </p>
   </td>
 </tr>
 
