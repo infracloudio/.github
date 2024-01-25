@@ -73,7 +73,7 @@ Some of our achievements 💪
   </td>
   <td>
     <a href="https://www.infracloud.io/blogs/ab-testing-with-linkerd-flagger-using-dynamic-routing/">A/B Testing with Linkerd and Flagger using Dynamic Routing</a> <br/>
-    by [&quot;Pranoy Kundu&quot;, &quot;Hitesh Wani&quot;]
+    by Pranoy Kundu, Hitesh Wani
     <br/>
     <br/>
     <p> Learn what is A/B testing, its importance, and how to perform A/B testing with Linkerd and Flagger using dynamic routing on a microservice-based application. </p>
