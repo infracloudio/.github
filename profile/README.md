@@ -52,31 +52,31 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/unveiling-platform-engineering-reference-architecture-ebook/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/unveiling-platform-engineering-reference-architecture-ebook/unveiling-platform-engineering-reference-architecture-ebook-1200x628.png">
+    <a href="https://www.infracloud.io/blogs/cortex-for-ha-monitoring-with-prometheus/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/cortex-for-ha-monitoring-with-prometheus/scaling-prometheus-with-cortex-1200x628.png">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/unveiling-platform-engineering-reference-architecture-ebook/">Unveiling our Platform Engineering Reference Architecture eBook</a> <br/>
-    by Vishal Biyani
+    <a href="https://www.infracloud.io/blogs/cortex-for-ha-monitoring-with-prometheus/">Scaling Prometheus with Cortex &lpar;Updated in 2024&rpar;</a> <br/>
+    by Akshay Awate
     <br/>
     <br/>
-    <p> Announcing InfraCloud&#39;s platform engineering reference architecture ebook to help your platform engineering teams succeed. Get your free copy now! </p>
+    <p> Learn how to use Cortex to make Prometheus HA and enhance its capabilities for handling massive workloads to manage your increasing monitoring requirements. </p>
   </td>
 </tr>
 
 <tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/ab-testing-with-linkerd-flagger-using-dynamic-routing/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ab-testing-with-linkerd-flagger-using-dynamic-routing/a-b-testing-with-linkerd-using-dynamic-request-routing-1200x628.png">
+    <a href="https://www.infracloud.io/blogs/achieving-soc-2-compliance-comprehensive-guide/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/achieving-soc-2-compliance-comprehensive-guide/comprehensive-guide-to-achieving-soc-2-compliance-1200x628.png">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/ab-testing-with-linkerd-flagger-using-dynamic-routing/">A/B Testing with Linkerd and Flagger using Dynamic Routing</a> <br/>
-    by Pranoy Kundu, Hitesh Wani
+    <a href="https://www.infracloud.io/blogs/achieving-soc-2-compliance-comprehensive-guide/">A Comprehensive Guide to Achieving SOC 2 Compliance</a> <br/>
+    by Nitesh Saini
     <br/>
     <br/>
-    <p> Learn what is A/B testing, its importance, and how to perform A/B testing with Linkerd and Flagger using dynamic routing on a microservice-based application. </p>
+    <p> Achieving SOC 2 compliance can be challenging, but here is your 9-step guide to help you prepare for the audit and successfully achieve SOC 2 certification. </p>
   </td>
 </tr>
 
