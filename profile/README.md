@@ -52,6 +52,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/security-centralization-aws-multi-account-using-native-services/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/security-centralization-aws-multi-account-using-native-services/security-centralization-for-aws-multi-account-using-native-services-rev-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/security-centralization-aws-multi-account-using-native-services/">Security Centralization for AWS Multi-account using Native Services</a> <br/>
+    by Nitesh Saini
+    <br/>
+    <br/>
+    <p> Learn about achieving security centralization in the AWS public cloud using AWS organization with the help of native tools for comprehensive security. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/cortex-for-ha-monitoring-with-prometheus/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/cortex-for-ha-monitoring-with-prometheus/scaling-prometheus-with-cortex-1200x628.png">
     </a>
@@ -62,21 +77,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Learn how to use Cortex to make Prometheus HA and enhance its capabilities for handling massive workloads to manage your increasing monitoring requirements. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/achieving-soc-2-compliance-comprehensive-guide/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/achieving-soc-2-compliance-comprehensive-guide/comprehensive-guide-to-achieving-soc-2-compliance-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/achieving-soc-2-compliance-comprehensive-guide/">A Comprehensive Guide to Achieving SOC 2 Compliance</a> <br/>
-    by Nitesh Saini
-    <br/>
-    <br/>
-    <p> Achieving SOC 2 compliance can be challenging, but here is your 9-step guide to help you prepare for the audit and successfully achieve SOC 2 certification. </p>
   </td>
 </tr>
 
