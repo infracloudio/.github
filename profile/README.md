@@ -52,6 +52,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/introduction-to-microfrontends/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/introduction-to-microfrontends/introduction-to-microfrontends-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/introduction-to-microfrontends/">Introduction to Microfrontends</a> <br/>
+    by Suramya Shah, Sonali Srivastava
+    <br/>
+    <br/>
+    <p> What is microfrontend? Understand the concept of microfrontends along with the architecture, frameworks, best practices, and types of integration it offers. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/security-centralization-aws-multi-account-using-native-services/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/security-centralization-aws-multi-account-using-native-services/security-centralization-for-aws-multi-account-using-native-services-rev-1200x628.png">
     </a>
@@ -62,21 +77,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Learn about achieving security centralization in the AWS public cloud using AWS organization with the help of native tools for comprehensive security. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/cortex-for-ha-monitoring-with-prometheus/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/cortex-for-ha-monitoring-with-prometheus/scaling-prometheus-with-cortex-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/cortex-for-ha-monitoring-with-prometheus/">Scaling Prometheus with Cortex &lpar;Updated in 2024&rpar;</a> <br/>
-    by Akshay Awate
-    <br/>
-    <br/>
-    <p> Learn how to use Cortex to make Prometheus HA and enhance its capabilities for handling massive workloads to manage your increasing monitoring requirements. </p>
   </td>
 </tr>
 
