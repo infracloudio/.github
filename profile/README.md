@@ -52,6 +52,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/mastering-workload-specifications/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/mastering-workload-specifications/choosing-the-right-workload-specification-tool-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/mastering-workload-specifications/">Mastering Workload Specifications: Finding the Right Fit for Your Developers</a> <br/>
+    by Susa Tünker, Mathieu Benoit, Atulpriya Sharma
+    <br/>
+    <br/>
+    <p> What is workload specification? Find out how it reduces the cognitive burden of developers and discover tools with different use cases and scopes. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/introduction-to-microfrontends/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/introduction-to-microfrontends/introduction-to-microfrontends-1200x628.png">
     </a>
@@ -62,21 +77,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> What is microfrontend? Understand the concept of microfrontends along with the architecture, frameworks, best practices, and types of integration it offers. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/security-centralization-aws-multi-account-using-native-services/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/security-centralization-aws-multi-account-using-native-services/security-centralization-for-aws-multi-account-using-native-services-rev-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/security-centralization-aws-multi-account-using-native-services/">Security Centralization for AWS Multi-account using Native Services</a> <br/>
-    by Nitesh Saini
-    <br/>
-    <br/>
-    <p> Learn about achieving security centralization in the AWS public cloud using AWS organization with the help of native tools for comprehensive security. </p>
   </td>
 </tr>
 
