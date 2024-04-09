@@ -52,6 +52,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/automatic-image-update-to-git-using-flux-github-actions/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/automatic-image-update-to-git-using-flux-github-actions/automatic-image-update-to-git-using-flux-and-github-actions-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/automatic-image-update-to-git-using-flux-github-actions/">Automatic Image Update to Git using Flux and GitHub Actions</a> <br/>
+    by Shashank Pai
+    <br/>
+    <br/>
+    <p> Learn how to automate container image updates with Flux and GitHub Actions along with their implementation for secure, time-saving deployments. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/retrieval-augmented-generation-using-data-with-llms/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/retrieval-augmented-generation-using-data-with-llms/retrieval-augmented-generation-using-your-data-with-llms-1200x628.png">
     </a>
@@ -62,21 +77,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> What is Retrieval-Augmented Generation &lpar;RAG&rpar;? Learn how to use RAG to train LLMs on specific data within the demo app for accurate and contextual responses. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/mastering-workload-specifications/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/mastering-workload-specifications/choosing-the-right-workload-specification-tool-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/mastering-workload-specifications/">Mastering Workload Specifications: Finding the Right Fit for Your Developers</a> <br/>
-    by Susa Tünker, Mathieu Benoit, Atulpriya Sharma
-    <br/>
-    <br/>
-    <p> What is workload specification? Find out how it reduces the cognitive burden of developers and discover tools with different use cases and scopes. </p>
   </td>
 </tr>
 
