@@ -52,6 +52,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/plan-compliance-for-your-product/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/plan-for-compliance-for-your-product/how-to-plan-for-compliance-for-your-product-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/plan-compliance-for-your-product/">How to Plan for Compliance for your Product?</a> <br/>
+    by Ayesha Saha
+    <br/>
+    <br/>
+    <p> What is compliance? Understand why and how of compliance, relevant frameworks, and identify the ones that align with your needs to effectively plan for compliance. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/automatic-image-update-to-git-using-flux-github-actions/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/automatic-image-update-to-git-using-flux-github-actions/automatic-image-update-to-git-using-flux-and-github-actions-1200x628.png">
     </a>
@@ -62,21 +77,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Learn how to automate container image updates with Flux and GitHub Actions along with their implementation for secure, time-saving deployments. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/retrieval-augmented-generation-using-data-with-llms/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/retrieval-augmented-generation-using-data-with-llms/retrieval-augmented-generation-using-your-data-with-llms-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/retrieval-augmented-generation-using-data-with-llms/">Retrieval-Augmented Generation: Using your Data with LLMs</a> <br/>
-    by Sanket Sudake
-    <br/>
-    <br/>
-    <p> What is Retrieval-Augmented Generation &lpar;RAG&rpar;? Learn how to use RAG to train LLMs on specific data within the demo app for accurate and contextual responses. </p>
   </td>
 </tr>
 
