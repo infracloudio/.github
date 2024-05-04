@@ -52,6 +52,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/platform-engineering-is-not-just-about-tools/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/platform-engineering-is-not-just-about-tools/platform-engineering-is-not-just-about-the-tools-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/platform-engineering-is-not-just-about-tools/">Platform Engineering is Not Just About the Tools</a> <br/>
+    by Atulpriya Sharma
+    <br/>
+    <br/>
+    <p> Platform engineering isn’t solely about the tools and components but also about alignment within the organization and a special focus on understanding user needs. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/plan-compliance-for-your-product/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/plan-for-compliance-for-your-product/how-to-plan-for-compliance-for-your-product-1200x628.png">
     </a>
@@ -62,21 +77,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> What is compliance? Understand why and how of compliance, relevant frameworks, and identify the ones that align with your needs to effectively plan for compliance. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/automatic-image-update-to-git-using-flux-github-actions/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/automatic-image-update-to-git-using-flux-github-actions/automatic-image-update-to-git-using-flux-and-github-actions-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/automatic-image-update-to-git-using-flux-github-actions/">Automatic Image Update to Git using Flux and GitHub Actions</a> <br/>
-    by Shashank Pai
-    <br/>
-    <br/>
-    <p> Learn how to automate container image updates with Flux and GitHub Actions along with their implementation for secure, time-saving deployments. </p>
   </td>
 </tr>
 
