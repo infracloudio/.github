@@ -52,6 +52,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/exploring-ai-model-inference/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/exploring-ai-model-inference/exploring-ai-model-inference.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/exploring-ai-model-inference/">Exploring AI Model Inference: Servers, Frameworks, and Optimization Strategies</a> <br/>
+    by Aman Juneja
+    <br/>
+    <br/>
+    <p> This blog post explores key decisions for deploying models in production, incl. infrastructure, optimization &amp; frameworks to streamline operations. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/platform-engineering-is-not-just-about-tools/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/platform-engineering-is-not-just-about-tools/platform-engineering-is-not-just-about-the-tools-1200x628.png">
     </a>
@@ -62,21 +77,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Platform engineering isn’t solely about the tools and components but also about alignment within the organization and a special focus on understanding user needs. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/plan-compliance-for-your-product/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/plan-for-compliance-for-your-product/how-to-plan-for-compliance-for-your-product-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/plan-compliance-for-your-product/">How to Plan for Compliance for your Product?</a> <br/>
-    by Ayesha Saha
-    <br/>
-    <br/>
-    <p> What is compliance? Understand why and how of compliance, relevant frameworks, and identify the ones that align with your needs to effectively plan for compliance. </p>
   </td>
 </tr>
 
