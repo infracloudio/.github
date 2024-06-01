@@ -52,31 +52,31 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/exploring-ai-model-inference/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/exploring-ai-model-inference/exploring-ai-model-inference.png">
+    <a href="https://www.infracloud.io/blogs/vector-databases-beginners-guide/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/vector-databases-primer/vector-databases-beginners-guide-1200x628.png">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/exploring-ai-model-inference/">Exploring AI Model Inference: Servers, Frameworks, and Optimization Strategies</a> <br/>
-    by Aman Juneja
+    <a href="https://www.infracloud.io/blogs/vector-databases-beginners-guide/">What are Vector Databases? A Beginner’s Guide</a> <br/>
+    by Sameer Kulkarni
     <br/>
     <br/>
-    <p> This blog post explores key decisions for deploying models in production, incl. infrastructure, optimization &amp; frameworks to streamline operations. </p>
+    <p> Understand vector databases, types of data, and why we need them to store unstructured data. Discover the use cases of vector databases with examples. </p>
   </td>
 </tr>
 
 <tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/platform-engineering-is-not-just-about-tools/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/platform-engineering-is-not-just-about-tools/platform-engineering-is-not-just-about-the-tools-1200x628.png">
+    <a href="https://www.infracloud.io/blogs/minio-audit-logging/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/minio-audit-logging-with-kafka-and-efk/Minio-audit-logging-1200x628.png">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/platform-engineering-is-not-just-about-tools/">Platform Engineering is Not Just About the Tools</a> <br/>
-    by Atulpriya Sharma
+    <a href="https://www.infracloud.io/blogs/minio-audit-logging/">Audit Logging for MinIO</a> <br/>
+    by Akash Warkhade
     <br/>
     <br/>
-    <p> Platform engineering isn’t solely about the tools and components but also about alignment within the organization and a special focus on understanding user needs. </p>
+    <p> What is MinIO? Learn how we can enable audit logging in MinIO with Kafka and EFK while optimizing the audit logs for storage and performance. </p>
   </td>
 </tr>
 
