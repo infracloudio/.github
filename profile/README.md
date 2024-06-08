@@ -53,7 +53,7 @@ Some of our achievements 💪
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
     <a href="https://www.infracloud.io/blogs/vector-databases-beginners-guide/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/vector-databases-primer/vector-databases-beginners-guide-1200x628.png">
+      <img width="250px" src="https://www.infracloud.io/assets/img/blog/vector-databases-primer/vector-databases-beginners-guide.png">
     </a>
   </td>
   <td>
@@ -68,7 +68,7 @@ Some of our achievements 💪
 <tr>
   <td>
     <a href="https://www.infracloud.io/blogs/minio-audit-logging/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/minio-audit-logging-with-kafka-and-efk/Minio-audit-logging-1200x628.png">
+      <img width="250px" src="https://www.infracloud.io/assets/img/blog/minio-audit-logging-with-kafka-and-efk/minio-audit-logging.png">
     </a>
   </td>
   <td>
