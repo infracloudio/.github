@@ -52,31 +52,31 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/vector-databases-beginners-guide/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/blog/vector-databases-primer/vector-databases-beginners-guide.png">
+    <a href="https://www.infracloud.io/blogs/feature-flag-tools-to-confidently-release-new-features/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/9-best-feature-flag-tools-confidently-release-new-features/feature-flag-tools-comparison-1200x628.png">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/vector-databases-beginners-guide/">What are Vector Databases? A Beginner’s Guide</a> <br/>
-    by Sameer Kulkarni
+    <a href="https://www.infracloud.io/blogs/feature-flag-tools-to-confidently-release-new-features/">10 Feature Flag Tools to Confidently Release New Features</a> <br/>
+    by InfraCloud Team
     <br/>
     <br/>
-    <p> Understand vector databases, types of data, and why we need them to store unstructured data. Discover the use cases of vector databases with examples. </p>
+    <p> Looking for the best feature flag tools to organize and manage all your feature flags? Check out this blog post where we shortlisted all the best ones. </p>
   </td>
 </tr>
 
 <tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/minio-audit-logging/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/blog/minio-audit-logging-with-kafka-and-efk/minio-audit-logging.png">
+    <a href="https://www.infracloud.io/blogs/unlocking-kubernetes-power-with-rke-custer-metallb-rook-ceph/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/blog/unlocking-kubernetes-power-with-rke-custer-metallb-rook-ceph/unlocking-kubernetes-power-with-rke-cluster-metallb-and-rook-ceph-1200x628.png">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/minio-audit-logging/">Audit Logging for MinIO</a> <br/>
-    by Akash Warkhade
+    <a href="https://www.infracloud.io/blogs/unlocking-kubernetes-power-with-rke-custer-metallb-rook-ceph/">Unlocking Kubernetes Power with RKE Cluster, MetalLB, and Rook-Ceph</a> <br/>
+    by Dikshant Rai
     <br/>
     <br/>
-    <p> What is MinIO? Learn how we can enable audit logging in MinIO with Kafka and EFK while optimizing the audit logs for storage and performance. </p>
+    <p> Deploy and scale containerized apps in bare metal by configuring Kubernetes cluster on-prem using Rancher Kubernetes Engine &lpar;RKE2&rpar;, MetalLB, and Rook-Ceph. </p>
   </td>
 </tr>
 
