@@ -52,6 +52,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/enhancing-business-security-compliance-with-service-mesh/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/enhancing-business-security-compliance-with-service-mesh/enhancingi-business-security-&amp;-compliance-with-service-mesh-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/enhancing-business-security-compliance-with-service-mesh/">Enhancing Business Security and Compliance with Service Mesh</a> <br/>
+    by Ninad Desai
+    <br/>
+    <br/>
+    <p> Learn how the Service Mesh helps businesses to achieve compliance seamlessly while ensuring data security, better user access management and improved observability. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/feature-flag-tools-to-confidently-release-new-features/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/9-best-feature-flag-tools-confidently-release-new-features/feature-flag-tools-comparison-1200x628.png">
     </a>
@@ -62,21 +77,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Looking for the best feature flag tools to organize and manage all your feature flags? Check out this blog post where we shortlisted all the best ones. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/unlocking-kubernetes-power-with-rke-custer-metallb-rook-ceph/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/blog/unlocking-kubernetes-power-with-rke-custer-metallb-rook-ceph/unlocking-kubernetes-power-with-rke-cluster-metallb-and-rook-ceph-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/unlocking-kubernetes-power-with-rke-custer-metallb-rook-ceph/">Unlocking Kubernetes Power with RKE Cluster, MetalLB, and Rook-Ceph</a> <br/>
-    by Dikshant Rai
-    <br/>
-    <br/>
-    <p> Deploy and scale containerized apps in bare metal by configuring Kubernetes cluster on-prem using Rancher Kubernetes Engine &lpar;RKE2&rpar;, MetalLB, and Rook-Ceph. </p>
   </td>
 </tr>
 
