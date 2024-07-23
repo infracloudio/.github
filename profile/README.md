@@ -52,6 +52,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/guide-to-nvidia-gpu-operator-in-kubernetes/">
+      <img width="250px" src="https://www.infracloud.io/ssets/img/Blog/nvidia-gpu-operator/nvidia-gpu-operator-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/guide-to-nvidia-gpu-operator-in-kubernetes/">Essential Guide to NVIDIA GPU Operator in Kubernetes</a> <br/>
+    by Sameer Kulkarni, Sanket Sudake
+    <br/>
+    <br/>
+    <p> What is NVIDIA GPU Operator? Learn its installation, features, and how it manages GPU resources efficiently in Kubernetes environments to scale AI/ML workloads. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/introduction-to-nvidia-network-operator/">
       <img width="250px" src="https://www.infracloud.io/assets/img/blog/introduction-to-nvidia-network-operator/introduction-to-nvidia-network-operator-1200x628.png">
     </a>
@@ -62,21 +77,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Explore NVIDIA Network Operator, understand its functionality, key features, and how it maximizes AI application potential within the Kubernetes ecosystem. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/enhancing-business-security-compliance-with-service-mesh/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/enhancing-business-security-compliance-with-service-mesh/enhancingi-business-security-&amp;-compliance-with-service-mesh-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/enhancing-business-security-compliance-with-service-mesh/">Enhancing Business Security and Compliance with Service Mesh</a> <br/>
-    by Ninad Desai
-    <br/>
-    <br/>
-    <p> Learn how the Service Mesh helps businesses to achieve compliance seamlessly while ensuring data security, better user access management and improved observability. </p>
   </td>
 </tr>
 
