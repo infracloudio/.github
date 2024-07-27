@@ -52,6 +52,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/internal-developer-platform-key-elements/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/internal-developer-platform-key-elements/key-elements-of-an-internal-developer-platform.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/internal-developer-platform-key-elements/">Key Elements of an Internal Developer Platform &lpar;IDP&rpar;</a> <br/>
+    by Sudhanshu Prajapati, Faizan Fahim
+    <br/>
+    <br/>
+    <p> Making a developer platform? Here are key elements of an internal developer platform that you cannot miss if you wish to build a successful developer platform. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/guide-to-nvidia-gpu-operator-in-kubernetes/">
       <img width="250px" src="https://www.infracloud.io/ssets/img/Blog/nvidia-gpu-operator/nvidia-gpu-operator-1200x628.png">
     </a>
@@ -62,21 +77,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> What is NVIDIA GPU Operator? Learn its installation, features, and how it manages GPU resources efficiently in Kubernetes environments to scale AI/ML workloads. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/introduction-to-nvidia-network-operator/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/blog/introduction-to-nvidia-network-operator/introduction-to-nvidia-network-operator-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/introduction-to-nvidia-network-operator/">Introduction to NVIDIA Network Operator</a> <br/>
-    by Sameer Kulkarni, Bhavin Gandhi
-    <br/>
-    <br/>
-    <p> Explore NVIDIA Network Operator, understand its functionality, key features, and how it maximizes AI application potential within the Kubernetes ecosystem. </p>
   </td>
 </tr>
 
