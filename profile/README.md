@@ -52,31 +52,31 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/internal-developer-platform-key-elements/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/internal-developer-platform-key-elements/key-elements-of-an-internal-developer-platform.png">
+    <a href="https://www.infracloud.io/blogs/running-llama-3-with-triton-tensorrt-llm/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/running-llama-3-with-triton-tensorrt-llm/running-llama-3-with-triton-tensorrt-llm-1200x628.png">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/internal-developer-platform-key-elements/">Key Elements of an Internal Developer Platform &lpar;IDP&rpar;</a> <br/>
-    by Sudhanshu Prajapati, Faizan Fahim
+    <a href="https://www.infracloud.io/blogs/running-llama-3-with-triton-tensorrt-llm/">Running Llama 3 with Triton and TensorRT-LLM</a> <br/>
+    by Bhavin Gandhi
     <br/>
     <br/>
-    <p> Making a developer platform? Here are key elements of an internal developer platform that you cannot miss if you wish to build a successful developer platform. </p>
+    <p> What are inference and inference servers? Learn about a popular inference server, Triton, and deploy Meta’s Llama 3 model &lpar;an LLM&rpar; using it. </p>
   </td>
 </tr>
 
 <tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/guide-to-nvidia-gpu-operator-in-kubernetes/">
-      <img width="250px" src="https://www.infracloud.io/ssets/img/Blog/nvidia-gpu-operator/nvidia-gpu-operator-1200x628.png">
+    <a href="https://www.infracloud.io/blogs/gpu-sharing-techniques-guide-vgpu-mig-time-slicing/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/gpu-sharing-techniques-guide/vgpu-vs-mig-vs-gpu-time-slicing-1200x628.png">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/guide-to-nvidia-gpu-operator-in-kubernetes/">Essential Guide to NVIDIA GPU Operator in Kubernetes</a> <br/>
-    by Sameer Kulkarni, Sanket Sudake
+    <a href="https://www.infracloud.io/blogs/gpu-sharing-techniques-guide-vgpu-mig-time-slicing/">Guide to GPU Sharing Techniques: vGPU, MIG and Time Slicing</a> <br/>
+    by Sameer Kulkarni
     <br/>
     <br/>
-    <p> What is NVIDIA GPU Operator? Learn its installation, features, and how it manages GPU resources efficiently in Kubernetes environments to scale AI/ML workloads. </p>
+    <p> vGPU vs MIG vs Time-Slicing techniques to optimize GPU usage for AI and ML. Learn how these methods reduce GPU costs and enhance project scalability. </p>
   </td>
 </tr>
 
