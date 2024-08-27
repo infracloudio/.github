@@ -52,6 +52,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/improving-rag-accuracy-with-rerankers/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/rag-optimization-with-rerankers/enhancing-insightful-with-a-reranker-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/improving-rag-accuracy-with-rerankers/">Improving RAG Accuracy with Rerankers</a> <br/>
+    by Shreyas Mocherla
+    <br/>
+    <br/>
+    <p> What are rankers? Learn about the types of rerankers, how to select a reranker model, and how to use it to improve the Retrieval Augmented Generation framework. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/running-llama-3-with-triton-tensorrt-llm/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/running-llama-3-with-triton-tensorrt-llm/running-llama-3-with-triton-tensorrt-llm-1200x628.png">
     </a>
@@ -62,21 +77,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> What are inference and inference servers? Learn about a popular inference server, Triton, and deploy Meta’s Llama 3 model &lpar;an LLM&rpar; using it. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/gpu-sharing-techniques-guide-vgpu-mig-time-slicing/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/gpu-sharing-techniques-guide/vgpu-vs-mig-vs-gpu-time-slicing-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/gpu-sharing-techniques-guide-vgpu-mig-time-slicing/">Guide to GPU Sharing Techniques: vGPU, MIG and Time Slicing</a> <br/>
-    by Sameer Kulkarni
-    <br/>
-    <br/>
-    <p> vGPU vs MIG vs Time-Slicing techniques to optimize GPU usage for AI and ML. Learn how these methods reduce GPU costs and enhance project scalability. </p>
   </td>
 </tr>
 
