@@ -52,6 +52,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/distributed-parallel-processing-ray-kuberay/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/distributed-parallel-processing-ray-kuberay/primer-on-distributed-parallel-processing-with-ray-using-kuberay-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/distributed-parallel-processing-ray-kuberay/">Primer on Distributed Parallel Processing with Ray using KubeRay</a> <br/>
+    by Sudhanshu Prajapati
+    <br/>
+    <br/>
+    <p> What is Distributed Parallel Processing? How to achieve it with Ray using KubeRay in Kubernetes to handle large-scale, resource-intensive tasks. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/virtual-clusters-for-kubernetes/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/virtual-clusters-for-kubernetes/vcluster-1200x628.png">
     </a>
@@ -62,21 +77,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> What are virtual clusters? Discover vCluster, its architecture, installation, and integrations, make virtual clusters with it, and explore common scenarios. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/improving-rag-accuracy-with-rerankers/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/rag-optimization-with-rerankers/enhancing-insightful-with-a-reranker-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/improving-rag-accuracy-with-rerankers/">Improving RAG Accuracy with Rerankers</a> <br/>
-    by Shreyas Mocherla
-    <br/>
-    <br/>
-    <p> What are rankers? Learn about the types of rerankers, how to select a reranker model, and how to use it to improve the Retrieval Augmented Generation framework. </p>
   </td>
 </tr>
 
