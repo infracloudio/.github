@@ -52,6 +52,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/prometheus-vs-cloudwatch/">
+      <img width="250px" src="">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/prometheus-vs-cloudwatch/">Prometheus vs CloudWatch for Cloud Native Applications &lpar;Updated in 2024&rpar;</a> <br/>
+    by Ruturaj Kadikar, Hrishikesh Deodhar
+    <br/>
+    <br/>
+    <p> CloudWatch vs Prometheus? In this comparison post, you will find out which one is better as the monitoring solution for your cloud native applications. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/distributed-parallel-processing-ray-kuberay/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/distributed-parallel-processing-ray-kuberay/primer-on-distributed-parallel-processing-with-ray-using-kuberay-1200x628.png">
     </a>
@@ -62,21 +77,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> What is Distributed Parallel Processing? How to achieve it with Ray using KubeRay in Kubernetes to handle large-scale, resource-intensive tasks. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/virtual-clusters-for-kubernetes/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/virtual-clusters-for-kubernetes/vcluster-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/virtual-clusters-for-kubernetes/">Virtual Clusters for Kubernetes</a> <br/>
-    by Purushottam Reddy
-    <br/>
-    <br/>
-    <p> What are virtual clusters? Discover vCluster, its architecture, installation, and integrations, make virtual clusters with it, and explore common scenarios. </p>
   </td>
 </tr>
 
