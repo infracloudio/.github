@@ -4,7 +4,7 @@
 
 ## So, what do we do?
 
-InfraCloud is a company focused on Infrastructure technologies - we have worked all the way from bare metal to building those cool Kubernetes Controllers. We do a few focused things in the space of infrastructure technologies - we have worked with early/mid stage startups building cloud native products with Go lang and technologies such as Kubernetes, Prometheus, Service mesh, and so on. Secondly, we work with enterprises to implement cloud native technologies. This usually spans from discovering their objectives with cloud native to actually implementing everything from CI/CD/GitOps to Service Mesh to Observability and Infra As a Code etc.
+InfraCloud helps companies go from hardware to GPU Cloud. InfraCloud solutions combine the best of open source & deep infrastructure expertise to build, operate, and scale GPU Cloud. We do a few focused things in the space of infrastructure technologies - we have worked with early/mid stage startups building cloud native products with Go lang and technologies such as Kubernetes, Prometheus, Service mesh, and so on. Secondly, we work with enterprises to implement cloud native technologies. This usually spans from discovering their objectives with cloud native to actually implementing everything from CI/CD/GitOps to Service Mesh to Observability and Infra As a Code etc.
 
 ### Making Amazing Products 📦
 
@@ -18,6 +18,7 @@ Our developers are actively contributing to cloud-native open source projects to
 
 [![cloud native open source projects contributions](https://www.infracloud.io/assets/img/infracloud-org-github-repo/oss-contributions.png 'OSS contributions')](https://www.infracloud.io/cloud-native-open-source-contributions/)
 
+[![cloud native open source AI projects contributions](https://www.infracloud.io/assets/img/infracloud-org-github-repo/ai-oss-icons.png 'OSS contributions')](https://www.infracloud.io/cloud-native-open-source-contributions/)
 
 ## Awards & Achievements 🏆
 
@@ -28,8 +29,8 @@ Some of our achievements 💪
 - 2023 Stratus Award for Cloud Computing in the Kubernetes category winners
 - 1st Kubernetes Partner in India & 2nd in APAC
 - One of the very 1st CKA Engineers is from InfraCloud
-- 4 CKS, 51 CKA & 19 Certified Kubernetes App Developers & counting
-
+- 4 CKS, 51 CKA & 19 Certified Kubernetes App Developers & 2 Kubestronauts (1 LFX Mentor)
+  
 [![awards and achievements](https://www.infracloud.io/assets/img/infracloud-org-github-repo/awards-and-achievements.png 'awards & achievements')](https://www.infracloud.io/about-us/)
 
 
@@ -38,12 +39,12 @@ Some of our achievements 💪
 [![InfraCloud resources](https://www.infracloud.io/assets/img/infracloud-org-github-repo/infracloud-creations.png 'InfraCloud resources')](https://www.infracloud.io/)
 
 - [School of Kubernetes](https://www.infracloud.io/kubernetes-school/) 📚: 100% Free Kubernetes courses, training, and hands-on knowledge.
+- [Webinars](https://www.infracloud.io/webinars/) 📺: Live webinars designed for and by thought leaders on AI and cloud infrastructure.
 - [Mentoring Sessions](https://www.infracloud.io/career-cloud-native/) 🧑‍🏫: Our mentors helping accelerate your cloud native career or making the shift.
 - [Cloud Native Talks](https://www.infracloud.io/cloud-native-talks/) 🎙️: Access all the amazing talks, workshops, webinars, and sessions by Infranauts.
 - [CNCF Landscape Navigator](https://www.infracloud.io/landscape-navigator/) 🧭: The ultimate tool to identify the best CNCF projects, that are right for you.
-- [Cloud Native Wordle](https://www.infracloud.io/play/cloud-native-wordle/) 🧩: Try the cloud native version of the popular Wordle game.
-- [Spelling Bee](https://www.infracloud.io/play/spelling-bee/) 🐝: A fun game to make cloud native related words from six random alphabets.
 - [Phippy Comic](https://www.infracloud.io/phippy-cloud-native-transformation/) 📕: Read how Captain Kube helped Phippy understand & leverage cloud native tech.
+- [Spelling Bee](https://www.infracloud.io/play/spelling-bee/) 🐝: A fun game to make cloud native related words from six random alphabets.
 
 
 ## Recent Blog Posts
@@ -99,3 +100,4 @@ Join us as we build a company that approaches work from a fresh perspective 🌿
 - 🌐 [Visit our Website](https://www.infracloud.io)
 - ✉️ Email us at [info]@infracloud.io
 - 📱 Connect on [Twitter](https://twitter.com/infracloudio) and [Linkedin](https://www.linkedin.com/company/infracloudio/)
+- 🎥 Subscribe to [YouTube channel](https://www.youtube.com/@InfraCloud)
