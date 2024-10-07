@@ -18,7 +18,7 @@ Our developers are actively contributing to cloud-native open source projects to
 
 [![cloud native open source projects contributions](https://www.infracloud.io/assets/img/infracloud-org-github-repo/oss-contributions.png 'OSS contributions')](https://www.infracloud.io/cloud-native-open-source-contributions/)
 
-[![cloud native open source AI projects contributions](https://www.infracloud.io/assets/img/infracloud-org-github-repo/ai-oss-icons.png 'OSS contributions')](https://www.infracloud.io/cloud-native-open-source-contributions/)
+[![cloud native open source AI projects contributions](https://www.infracloud.io/assets/img/infracloud-org-github-repo/ai-oss-icons.png 'AI OSS contributions')](https://www.infracloud.io/cloud-native-open-source-contributions/)
 
 ## Awards & Achievements 🏆
 
