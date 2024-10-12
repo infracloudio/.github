@@ -54,7 +54,7 @@ Some of our achievements 💪
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
     <a href="https://www.infracloud.io/blogs/prometheus-vs-cloudwatch/">
-      <img width="250px" src="">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/prometheus-vs-cloudwatch/prometheus-vs-cloudwatch-1200x628.png">
     </a>
   </td>
   <td>
