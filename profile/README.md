@@ -53,6 +53,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/running-phi-3-with-vllm-ray-serve/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/running-phi-3-with-vllm-ray-serve/running-phi-3-with-vllm-and-ray-serve-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/running-phi-3-with-vllm-ray-serve/">Running Phi 3 with vLLM and Ray Serve</a> <br/>
+    by Sudhanshu Prajapati
+    <br/>
+    <br/>
+    <p> How to deploy the Phi-3 model using vLLM with Ray Serve on Kubernetes and understand the key differences between inference and serving. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/prometheus-vs-cloudwatch/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/prometheus-vs-cloudwatch/prometheus-vs-cloudwatch-1200x628.png">
     </a>
@@ -63,21 +78,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> CloudWatch vs Prometheus? In this comparison post, you will find out which one is better as the monitoring solution for your cloud native applications. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/distributed-parallel-processing-ray-kuberay/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/distributed-parallel-processing-ray-kuberay/primer-on-distributed-parallel-processing-with-ray-using-kuberay-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/distributed-parallel-processing-ray-kuberay/">Primer on Distributed Parallel Processing with Ray using KubeRay</a> <br/>
-    by Sudhanshu Prajapati
-    <br/>
-    <br/>
-    <p> What is Distributed Parallel Processing? How to achieve it with Ray using KubeRay in Kubernetes to handle large-scale, resource-intensive tasks. </p>
   </td>
 </tr>
 
