@@ -14,11 +14,12 @@ InfraCloud helps companies go from hardware to GPU Cloud. InfraCloud solutions c
 |An open source serverless platform for Kubernetes – and enables an AWS Lambda-like easy experience for anyone new to the Kubernetes platform.| A command line interface tool designed to implement all the observability stack components (namely Prometheus and Thanos so far) is needed.
 
 ### Paying it Forward to the OSS Community 🤖
-Our developers are actively contributing to cloud-native open source projects to define and shape the future of Infrastructure.
+Our developers are actively leveraging and contributing to AI and Cloud OSS projects to define and shape the future of Infrastructure.
+
+[![cloud native open source AI projects contributions](https://www.infracloud.io/assets/img/infracloud-org-github-repo/ai-oss-icons.png 'AI OSS contributions')](https://www.infracloud.io/cloud-native-open-source-contributions/)
 
 [![cloud native open source projects contributions](https://www.infracloud.io/assets/img/infracloud-org-github-repo/oss-contributions.png 'OSS contributions')](https://www.infracloud.io/cloud-native-open-source-contributions/)
 
-[![cloud native open source AI projects contributions](https://www.infracloud.io/assets/img/infracloud-org-github-repo/ai-oss-icons.png 'AI OSS contributions')](https://www.infracloud.io/cloud-native-open-source-contributions/)
 
 ## Awards & Achievements 🏆
 
