@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/inference-parallelism/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/inference-parallelism/parallelize-ai-inference-deployments-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/inference-parallelism/">What is Inference Parallelism and How it Works</a> <br/>
+    by Aman Juneja
+    <br/>
+    <br/>
+    <p> What is inference parallelism? Explore the parallelism methods for AI models, including data, model, pipeline, and expert parallelism, with their pros and cons. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/running-phi-3-with-vllm-ray-serve/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/running-phi-3-with-vllm-ray-serve/running-phi-3-with-vllm-and-ray-serve-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> How to deploy the Phi-3 model using vLLM with Ray Serve on Kubernetes and understand the key differences between inference and serving. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/prometheus-vs-cloudwatch/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/prometheus-vs-cloudwatch/prometheus-vs-cloudwatch-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/prometheus-vs-cloudwatch/">Prometheus vs CloudWatch for Cloud Native Applications &lpar;Updated in 2024&rpar;</a> <br/>
-    by Ruturaj Kadikar, Hrishikesh Deodhar
-    <br/>
-    <br/>
-    <p> CloudWatch vs Prometheus? In this comparison post, you will find out which one is better as the monitoring solution for your cloud native applications. </p>
   </td>
 </tr>
 
