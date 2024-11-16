@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/streamline-organization-security-posture-with-nist-csf/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/streamline-organization-security-posture-with-nist-csf/nist-csf-2.0-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/streamline-organization-security-posture-with-nist-csf/">Streamline Your Organization Security Posture with NIST CSF 2.0</a> <br/>
+    by Nitesh Saini
+    <br/>
+    <br/>
+    <p> Strengthen your organization’s security with NIST CSF 2.0. Explore key updates, core components, and cloud security best practices for robust cybersecurity. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/inference-parallelism/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/inference-parallelism/parallelize-ai-inference-deployments-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> What is inference parallelism? Explore the parallelism methods for AI models, including data, model, pipeline, and expert parallelism, with their pros and cons. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/running-phi-3-with-vllm-ray-serve/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/running-phi-3-with-vllm-ray-serve/running-phi-3-with-vllm-and-ray-serve-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/running-phi-3-with-vllm-ray-serve/">Running Phi 3 with vLLM and Ray Serve</a> <br/>
-    by Sudhanshu Prajapati
-    <br/>
-    <br/>
-    <p> How to deploy the Phi-3 model using vLLM with Ray Serve on Kubernetes and understand the key differences between inference and serving. </p>
   </td>
 </tr>
 
