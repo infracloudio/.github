@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/high-availability-disaster-recovery-in-loki/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/quest-for-ha-dr-in-loki/quest-for-ha-and-dr-of-loki-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/high-availability-disaster-recovery-in-loki/">The Quest for HA and DR in Loki</a> <br/>
+    by Pavan NG
+    <br/>
+    <br/>
+    <p> Minimize data loss and business disruption by implementing high availability and configuring disaster recovery for Loki with AWS S3 as the object store. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/streamline-organization-security-posture-with-nist-csf/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/streamline-organization-security-posture-with-nist-csf/nist-csf-2.0-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Strengthen your organization’s security with NIST CSF 2.0. Explore key updates, core components, and cloud security best practices for robust cybersecurity. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/inference-parallelism/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/inference-parallelism/parallelize-ai-inference-deployments-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/inference-parallelism/">What is Inference Parallelism and How it Works</a> <br/>
-    by Aman Juneja
-    <br/>
-    <br/>
-    <p> What is inference parallelism? Explore the parallelism methods for AI models, including data, model, pipeline, and expert parallelism, with their pros and cons. </p>
   </td>
 </tr>
 
