@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/planning-way-to-4-talks-at-kubecon-india/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/how-we-got-4-talks-at-kubecon-india/kubecon-india-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/planning-way-to-4-talks-at-kubecon-india/">Mission 011: Planning Our Way to 4 Talks at KubeCon India</a> <br/>
+    by Atulpriya Sharma
+    <br/>
+    <br/>
+    <p> Discover how we secured four talks at the first ever KubeCon India and take a behind-the-scenes look at Mission 011—the strategy that made it possible. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/high-availability-disaster-recovery-in-loki/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/quest-for-ha-dr-in-loki/quest-for-ha-and-dr-of-loki-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Minimize data loss and business disruption by implementing high availability and configuring disaster recovery for Loki with AWS S3 as the object store. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/streamline-organization-security-posture-with-nist-csf/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/streamline-organization-security-posture-with-nist-csf/nist-csf-2.0-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/streamline-organization-security-posture-with-nist-csf/">Streamline Your Organization Security Posture with NIST CSF 2.0</a> <br/>
-    by Nitesh Saini
-    <br/>
-    <br/>
-    <p> Strengthen your organization’s security with NIST CSF 2.0. Explore key updates, core components, and cloud security best practices for robust cybersecurity. </p>
   </td>
 </tr>
 
