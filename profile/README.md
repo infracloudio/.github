@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/ai-cloud-what-why-how/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-cloud-what-why-how/ai-cloud-an-introduction-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/ai-cloud-what-why-how/">AI Cloud: What, Why, and How?</a> <br/>
+    by Y Sarvani
+    <br/>
+    <br/>
+    <p> What is GPU cloud? Everything you need to know about AI cloud, its core components, how it works, and how it enables you to deploy and scale your AI workloads. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/planning-way-to-4-talks-at-kubecon-india/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/how-we-got-4-talks-at-kubecon-india/kubecon-india-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Discover how we secured four talks at the first ever KubeCon India and take a behind-the-scenes look at Mission 011—the strategy that made it possible. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/high-availability-disaster-recovery-in-loki/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/quest-for-ha-dr-in-loki/quest-for-ha-and-dr-of-loki-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/high-availability-disaster-recovery-in-loki/">The Quest for HA and DR in Loki</a> <br/>
-    by Pavan NG
-    <br/>
-    <br/>
-    <p> Minimize data loss and business disruption by implementing high availability and configuring disaster recovery for Loki with AWS S3 as the object store. </p>
   </td>
 </tr>
 
