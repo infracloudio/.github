@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/metrics-at-glance-for-production-clusters/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/metrics-at-glance-for-production-clusters/metrics-at-a-glance-for-production-clusters-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/metrics-at-glance-for-production-clusters/">Metrics at a Glance for Production Clusters</a> <br/>
+    by Ruturaj Kadikar
+    <br/>
+    <br/>
+    <p> Cut through the complexity and spotlight the essential metrics you need on your radar with the RED and USE methods to quickly detect and address issues. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/provisioning-kubernetes-bare-metal-using-aws-eks-anywhere/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/bare-metal-provisioning/bare-metal-provisioning-using-eks-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Learn the key differences between managed and self-hosted K8s and how to provision a Kubernetes cluster on bare metal infrastructure using AWS EKS-Anywhere. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/ai-cloud-what-why-how/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-cloud-what-why-how/ai-cloud-an-introduction-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/ai-cloud-what-why-how/">AI Cloud: What, Why, and How?</a> <br/>
-    by Y Sarvani
-    <br/>
-    <br/>
-    <p> What is GPU cloud? Everything you need to know about AI cloud, its core components, how it works, and how it enables you to deploy and scale your AI workloads. </p>
   </td>
 </tr>
 
