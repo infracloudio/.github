@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/model-context-protocol-simplifying-llm-integration/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/mcp/mcp-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/model-context-protocol-simplifying-llm-integration/">Model Context Protocol: The USB-C for AI: Simplifying LLM Integration</a> <br/>
+    by Atulpriya Sharma
+    <br/>
+    <br/>
+    <p> What is Model Context Protocol &lpar;MCP&rpar;? Learn how MCP standardized approach to connecting LLMs with different data sources, tools, and services </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/metrics-at-glance-for-production-clusters/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/metrics-at-glance-for-production-clusters/metrics-at-a-glance-for-production-clusters-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Cut through the complexity and spotlight the essential metrics you need on your radar with the RED and USE methods to quickly detect and address issues. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/provisioning-kubernetes-bare-metal-using-aws-eks-anywhere/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/bare-metal-provisioning/bare-metal-provisioning-using-eks-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/provisioning-kubernetes-bare-metal-using-aws-eks-anywhere/">Provisioning Kubernetes on Bare Metal using AWS EKS-Anywhere</a> <br/>
-    by Hitesh Pattanayak
-    <br/>
-    <br/>
-    <p> Learn the key differences between managed and self-hosted K8s and how to provision a Kubernetes cluster on bare metal infrastructure using AWS EKS-Anywhere. </p>
   </td>
 </tr>
 
