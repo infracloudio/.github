@@ -54,31 +54,31 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/model-context-protocol-simplifying-llm-integration/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/mcp/mcp-1200x628.png">
+    <a href="https://www.infracloud.io/blogs/kubeflow-on-gke-troubleshooting-setup-challenges-running-ml-pipelines/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/kubeflow-on-gke/building-an-ai-pipeline-1200x628.png">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/model-context-protocol-simplifying-llm-integration/">Model Context Protocol: The USB-C for AI: Simplifying LLM Integration</a> <br/>
-    by Atulpriya Sharma
+    <a href="https://www.infracloud.io/blogs/kubeflow-on-gke-troubleshooting-setup-challenges-running-ml-pipelines/">Kubeflow on GKE: Troubleshooting Setup Challenges and Running ML Pipelines</a> <br/>
+    by Himanshu Sharma
     <br/>
     <br/>
-    <p> What is Model Context Protocol &lpar;MCP&rpar;? Learn how MCP standardized approach to connecting LLMs with different data sources, tools, and services </p>
+    <p> Learn to build an AI pipeline with Kubeflow on GKE. Automate the steps required to build &amp; deploy LLM models and set up scalable ML workflows with Kubernetes. </p>
   </td>
 </tr>
 
 <tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/metrics-at-glance-for-production-clusters/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/metrics-at-glance-for-production-clusters/metrics-at-a-glance-for-production-clusters-1200x628.png">
+    <a href="https://www.infracloud.io/blogs/ai-model-monitoring-explainability-continual-learning-in-production/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-model-monitoring/ai-model-monitoring-1200x628.png">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/metrics-at-glance-for-production-clusters/">Metrics at a Glance for Production Clusters</a> <br/>
-    by Ruturaj Kadikar
+    <a href="https://www.infracloud.io/blogs/ai-model-monitoring-explainability-continual-learning-in-production/">AI Model Monitoring, Explainability, and Continual Learning in Production</a> <br/>
+    by Aman Juneja
     <br/>
     <br/>
-    <p> Cut through the complexity and spotlight the essential metrics you need on your radar with the RED and USE methods to quickly detect and address issues. </p>
+    <p> What you can’t see, you can’t fix. Learn to bring visibility into your AI models with effective monitoring, predictions, and continuous learning. </p>
   </td>
 </tr>
 
