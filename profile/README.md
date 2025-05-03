@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/deploying-ai-models-to-production-in-cloud/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/deploying-ai-models/deploying-ai-models-to-production-in-the-cloud-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/deploying-ai-models-to-production-in-cloud/">Deploying AI Models to Production in the Cloud</a> <br/>
+    by Himanshu Sharma
+    <br/>
+    <br/>
+    <p> Explore serving frameworks, cloud architectures, and advanced deployment strategies to learn how to deploy AI models to the production in cloud. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/ai-enabled-developer-maximizing-development-productivity/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-enabled-developer/ai-enabled-developer-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Discover how AI-powered tools &amp; processes are transforming software development. Leverage AI in coding, debugging, testing, and accelerating the entire SDLC. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/kubeflow-on-gke-troubleshooting-setup-challenges-running-ml-pipelines/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/kubeflow-on-gke/building-an-ai-pipeline-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/kubeflow-on-gke-troubleshooting-setup-challenges-running-ml-pipelines/">Kubeflow on GKE: Troubleshooting Setup Challenges and Running ML Pipelines</a> <br/>
-    by Himanshu Sharma
-    <br/>
-    <br/>
-    <p> Learn to build an AI pipeline with Kubeflow on GKE. Automate the steps required to build &amp; deploy LLM models and set up scalable ML workflows with Kubernetes. </p>
   </td>
 </tr>
 
