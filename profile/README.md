@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/data-management-ai-cloud/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/data-management-ai-cloud/data-management-for-ai-in-the-cloud-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/data-management-ai-cloud/">Data Management for AI in the Cloud: Building the Foundation for AI Success</a> <br/>
+    by Uday Kumar
+    <br/>
+    <br/>
+    <p> Master cloud data management for AI success. Learn strategies for ingestion, storage, governance &amp; cost optimization to power scalable AI models. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/deploying-ai-models-to-production-in-cloud/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/deploying-ai-models/deploying-ai-models-to-production-in-the-cloud-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Explore serving frameworks, cloud architectures, and advanced deployment strategies to learn how to deploy AI models to the production in cloud. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/ai-enabled-developer-maximizing-development-productivity/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-enabled-developer/ai-enabled-developer-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/ai-enabled-developer-maximizing-development-productivity/">AI-Enabled Developer: A Complete Guide to Maximizing Development Productivity</a> <br/>
-    by Atulpriya Sharma
-    <br/>
-    <br/>
-    <p> Discover how AI-powered tools &amp; processes are transforming software development. Leverage AI in coding, debugging, testing, and accelerating the entire SDLC. </p>
   </td>
 </tr>
 
