@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/batch-scheduling-on-kubernetes/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/batch-scheduling-on-kubernetes/batch-processing-in-kubernetes-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/batch-scheduling-on-kubernetes/">Batch Scheduling on Kubernetes: Comparing Apache YuniKorn, Volcano.sh, and Kueue</a> <br/>
+    by Rahul Kadam
+    <br/>
+    <br/>
+    <p> Explore Kubernetes batch scheduling challenges in Kubernetes and compare top tools: Apache YuniKorn, Volcano.sh, and Kueue for efficient workload management. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/data-management-ai-cloud/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/data-management-ai-cloud/data-management-for-ai-in-the-cloud-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Master cloud data management for AI success. Learn strategies for ingestion, storage, governance &amp; cost optimization to power scalable AI models. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/deploying-ai-models-to-production-in-cloud/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/deploying-ai-models/deploying-ai-models-to-production-in-the-cloud-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/deploying-ai-models-to-production-in-cloud/">Deploying AI Models to Production in the Cloud</a> <br/>
-    by Himanshu Sharma
-    <br/>
-    <br/>
-    <p> Explore serving frameworks, cloud architectures, and advanced deployment strategies to learn how to deploy AI models to the production in cloud. </p>
   </td>
 </tr>
 
