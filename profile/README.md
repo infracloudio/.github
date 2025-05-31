@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/ai-cloud-architecture-deep-dive/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-cloud-architectures-deep-dive/ai-cloud-architectures-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/ai-cloud-architecture-deep-dive/">AI Cloud Architecture: A Deep Dive into Frameworks and Challenges</a> <br/>
+    by Uday Kumar
+    <br/>
+    <br/>
+    <p> Deep dive into AI cloud architecture patterns, tools, and best practices to build scalable, resilient, and high-performance AI/ML infrastructure. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/batch-scheduling-on-kubernetes/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/batch-scheduling-on-kubernetes/batch-processing-in-kubernetes-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Explore Kubernetes batch scheduling challenges in Kubernetes and compare top tools: Apache YuniKorn, Volcano.sh, and Kueue for efficient workload management. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/data-management-ai-cloud/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/data-management-ai-cloud/data-management-for-ai-in-the-cloud-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/data-management-ai-cloud/">Data Management for AI in the Cloud: Building the Foundation for AI Success</a> <br/>
-    by Uday Kumar
-    <br/>
-    <br/>
-    <p> Master cloud data management for AI success. Learn strategies for ingestion, storage, governance &amp; cost optimization to power scalable AI models. </p>
   </td>
 </tr>
 
