@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/build-your-own-mcp-server/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/build-your-own-mcp-server/mcp-server-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/build-your-own-mcp-server/">How to Build Your Own MCP Server</a> <br/>
+    by Himanshu Sharma
+    <br/>
+    <br/>
+    <p> Learn how to build and run an MCP server using open source tools, with real-world implementation and best practices for creating production-ready integrations. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/ai-cloud-architecture-deep-dive/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-cloud-architectures-deep-dive/ai-cloud-architectures-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Deep dive into AI cloud architecture patterns, tools, and best practices to build scalable, resilient, and high-performance AI/ML infrastructure. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/batch-scheduling-on-kubernetes/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/batch-scheduling-on-kubernetes/batch-processing-in-kubernetes-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/batch-scheduling-on-kubernetes/">Batch Scheduling on Kubernetes: Comparing Apache YuniKorn, Volcano.sh, and Kueue</a> <br/>
-    by Rahul Kadam
-    <br/>
-    <br/>
-    <p> Explore Kubernetes batch scheduling challenges in Kubernetes and compare top tools: Apache YuniKorn, Volcano.sh, and Kueue for efficient workload management. </p>
   </td>
 </tr>
 
