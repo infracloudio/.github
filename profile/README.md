@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/ai-application-security/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-app-security/how-ai-is-redefining-application-security-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/ai-application-security/">How Generative AI is Revolutionizing Application Security?</a> <br/>
+    by Himanshu Sharma
+    <br/>
+    <br/>
+    <p> Discover how AI is transforming application security in 2025 with detecting and fixing bugs with AI-native IDE tools, their limitations, and future trends. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/build-your-own-mcp-server/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/build-your-own-mcp-server/mcp-server-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Learn how to build and run an MCP server using open source tools, with real-world implementation and best practices for creating production-ready integrations. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/ai-cloud-architecture-deep-dive/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-cloud-architectures-deep-dive/ai-cloud-architectures-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/ai-cloud-architecture-deep-dive/">AI Cloud Architecture: A Deep Dive into Frameworks and Challenges</a> <br/>
-    by Uday Kumar
-    <br/>
-    <br/>
-    <p> Deep dive into AI cloud architecture patterns, tools, and best practices to build scalable, resilient, and high-performance AI/ML infrastructure. </p>
   </td>
 </tr>
 
