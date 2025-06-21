@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/on-premise-ai-vs-cloud-ai/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/on-premise-ai-vs-cloud-ai/on-premise-ai-vs-cloud-ai-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/on-premise-ai-vs-cloud-ai/">On-Premise AI vs. Cloud AI: Making the Right Infrastructure Choice</a> <br/>
+    by Uday Kumar
+    <br/>
+    <br/>
+    <p> Learn what makes cloud vs. on-prem AI infrastructure ideal for different use cases, from experiments to full-scale production. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/ai-application-security/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-app-security/how-ai-is-redefining-application-security-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Discover how AI is transforming application security in 2025 with detecting and fixing bugs with AI-native IDE tools, their limitations, and future trends. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/build-your-own-mcp-server/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/build-your-own-mcp-server/mcp-server-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/build-your-own-mcp-server/">How to Build Your Own MCP Server</a> <br/>
-    by Himanshu Sharma
-    <br/>
-    <br/>
-    <p> Learn how to build and run an MCP server using open source tools, with real-world implementation and best practices for creating production-ready integrations. </p>
   </td>
 </tr>
 
