@@ -54,31 +54,31 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/build-scalable-ai-systems-in-cloud/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/build-scalable-ai-systems-in-cloud/scalability-in-ai-cloud-1200x628.png">
+    <a href="https://www.infracloud.io/blogs/measuring-managing-abstraction-debt/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/measuring-managing-abstraction-debt/measuring-and-managing-abstraction-debt-1200x628.png">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/build-scalable-ai-systems-in-cloud/">How to Build Scalable AI Systems in the Cloud</a> <br/>
-    by Uday Kumar
+    <a href="https://www.infracloud.io/blogs/measuring-managing-abstraction-debt/">Measuring and Managing Abstraction Debt: Key to Building Flexible Platforms</a> <br/>
+    by Atulpriya Sharma
     <br/>
     <br/>
-    <p> Learn how organizations are leveraging AI/GPU cloud platforms and cloud-native architectures to build scalable, flexible, and cost-effective machine learning systems at production scale. </p>
+    <p> Identify and manage abstraction debt to build flexible developer platforms that grow with your team and make development easier instead of becoming a hurdle. </p>
   </td>
 </tr>
 
 <tr>
   <td>
-    <a href="https://www.infracloud.io/blogs/on-premise-ai-vs-cloud-ai/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/on-premise-ai-vs-cloud-ai/on-premise-ai-vs-cloud-ai-1200x628.png">
+    <a href="https://www.infracloud.io/blogs/ai-cloud-security-essentials/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-cloud-security-essentials/ai-cloud-security-1200x628.png">
     </a>
   </td>
   <td>
-    <a href="https://www.infracloud.io/blogs/on-premise-ai-vs-cloud-ai/">On-Premise AI vs. Cloud AI: Making the Right Infrastructure Choice</a> <br/>
+    <a href="https://www.infracloud.io/blogs/ai-cloud-security-essentials/">AI Cloud Security Essentials: Protecting Data, Models, and Infrastructure</a> <br/>
     by Uday Kumar
     <br/>
     <br/>
-    <p> Learn what makes cloud vs. on-prem AI infrastructure ideal for different use cases, from experiments to full-scale production. </p>
+    <p> Discover key strategies to secure AI cloud environments by protecting data, models, ML pipeline, and infra at every step of the machine learning process. </p>
   </td>
 </tr>
 
