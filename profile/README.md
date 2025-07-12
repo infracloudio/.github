@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/securing-mcp-servers/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/securing-mcp-servers/securing-mcp-servers-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/securing-mcp-servers/">Securing MCP Servers: A Comprehensive Guide to Authentication and Authorization</a> <br/>
+    by Himanshu Sharma
+    <br/>
+    <br/>
+    <p> Learn to secure your MCP server by exploring the security landscape and implementing authentication and role-based access control with Keycloak. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/measuring-managing-abstraction-debt/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/measuring-managing-abstraction-debt/measuring-and-managing-abstraction-debt-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Identify and manage abstraction debt to build flexible developer platforms that grow with your team and make development easier instead of becoming a hurdle. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/ai-cloud-security-essentials/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-cloud-security-essentials/ai-cloud-security-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/ai-cloud-security-essentials/">AI Cloud Security Essentials: Protecting Data, Models, and Infrastructure</a> <br/>
-    by Uday Kumar
-    <br/>
-    <br/>
-    <p> Discover key strategies to secure AI cloud environments by protecting data, models, ML pipeline, and infra at every step of the machine learning process. </p>
   </td>
 </tr>
 
