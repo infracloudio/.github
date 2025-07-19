@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/kubecon-india-2025/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/kubecon-india-hyd/kubecon-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/kubecon-india-2025/">Excited for KubeCon India 2025: Our Team, Talks and Plans</a> <br/>
+    by InfraCloud Team
+    <br/>
+    <br/>
+    <p> InfraCloud &lpar;now Improving&rpar; is set to attend KubeCon India 2025. Discover our team’s plans, speaker sessions, and interesting things to do in Hyderabad. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/securing-mcp-servers/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/securing-mcp-servers/securing-mcp-servers-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Learn to secure your MCP server by exploring the security landscape and implementing authentication and role-based access control with Keycloak. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/measuring-managing-abstraction-debt/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/measuring-managing-abstraction-debt/measuring-and-managing-abstraction-debt-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/measuring-managing-abstraction-debt/">Measuring and Managing Abstraction Debt: Key to Building Flexible Platforms</a> <br/>
-    by Atulpriya Sharma
-    <br/>
-    <br/>
-    <p> Identify and manage abstraction debt to build flexible developer platforms that grow with your team and make development easier instead of becoming a hurdle. </p>
   </td>
 </tr>
 
