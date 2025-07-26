@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/service-catalog-idp-modeling-guide/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/service-catalog-idp-modeling-guide/idp-service-catalog-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/service-catalog-idp-modeling-guide/">Everything Starts with the Service Catalog: A Practical Guide to Modeling Your IDP</a> <br/>
+    by Sandeep Bhandari
+    <br/>
+    <br/>
+    <p> Learn how putting the Service Catalog at the center of your Internal Developer Platform improves it and build an IDP with a service-centric model using Port. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/kubecon-india-2025/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/kubecon-india-hyd/kubecon-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> InfraCloud &lpar;now Improving&rpar; is set to attend KubeCon India 2025. Discover our team’s plans, speaker sessions, and interesting things to do in Hyderabad. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/securing-mcp-servers/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/securing-mcp-servers/securing-mcp-servers-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/securing-mcp-servers/">Securing MCP Servers: A Comprehensive Guide to Authentication and Authorization</a> <br/>
-    by Himanshu Sharma
-    <br/>
-    <br/>
-    <p> Learn to secure your MCP server by exploring the security landscape and implementing authentication and role-based access control with Keycloak. </p>
   </td>
 </tr>
 
