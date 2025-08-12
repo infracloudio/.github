@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/ai-workload-cost-optimization/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-workload-cost-optimization/cost-optimization-for-ai-cloud-workloads-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/ai-workload-cost-optimization/">Cost Optimization Strategies for AI Workloads</a> <br/>
+    by Y Sarvani
+    <br/>
+    <br/>
+    <p> Explore the cost drivers of AI cloud workloads and discover proven strategies to cut expenses without compromising performance or scalability. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/mcp-gateway/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/mcp-gateway/mcp-gateway-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Learn how to build an MCP Gateway to secure servers at scale, simplify access, prevent config drift, and unify scattered tools into one AI platform. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/service-catalog-idp-modeling-guide/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/service-catalog-idp-modeling-guide/idp-service-catalog-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/service-catalog-idp-modeling-guide/">Everything Starts with the Service Catalog: A Practical Guide to Modeling Your IDP</a> <br/>
-    by Sandeep Bhandari
-    <br/>
-    <br/>
-    <p> Learn how putting the Service Catalog at the center of your Internal Developer Platform improves it and build an IDP with a service-centric model using Port. </p>
   </td>
 </tr>
 
