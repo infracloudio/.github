@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/ai-agents-for-kubernetes/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-agents-for-kubernetes/ai-agents-for-kubernetes-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/ai-agents-for-kubernetes/">AI Agents for Kubernetes: Getting Started with Kagent</a> <br/>
+    by Debjyoti Maity
+    <br/>
+    <br/>
+    <p> Adding AI into Kubernetes with Kagent, giving Gemini awareness of Kubernetes environment to deliver smarter insights, suggestions, and simplified operations. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/ai-workload-cost-optimization/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-workload-cost-optimization/cost-optimization-for-ai-cloud-workloads-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Explore the cost drivers of AI cloud workloads and discover proven strategies to cut expenses without compromising performance or scalability. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/mcp-gateway/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/mcp-gateway/mcp-gateway-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/mcp-gateway/">The MCP Gateway: Enabling Secure and Scalable Enterprise AI Integration</a> <br/>
-    by Himanshu Sharma
-    <br/>
-    <br/>
-    <p> Learn how to build an MCP Gateway to secure servers at scale, simplify access, prevent config drift, and unify scattered tools into one AI platform. </p>
   </td>
 </tr>
 
