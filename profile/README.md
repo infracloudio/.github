@@ -54,6 +54,21 @@ Some of our achievements 💪
 
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
+    <a href="https://www.infracloud.io/blogs/api-first-internal-developer-platforms/">
+      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/api-first-internal-developer-platforms/api-first-way-for-idp-1200x628.png">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.infracloud.io/blogs/api-first-internal-developer-platforms/">API-First Way of Building Internal Developer Platforms</a> <br/>
+    by Ruturaj Kadikar, Ninad Desai
+    <br/>
+    <br/>
+    <p> Learn to build an internal developer platform that actually works: simplify onboarding, and power workflows with real APIs and automation, not just dashboards. </p>
+  </td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.infracloud.io/blogs/ai-agents-for-kubernetes/">
       <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-agents-for-kubernetes/ai-agents-for-kubernetes-1200x628.png">
     </a>
@@ -64,21 +79,6 @@ Some of our achievements 💪
     <br/>
     <br/>
     <p> Adding AI into Kubernetes with Kagent, giving Gemini awareness of Kubernetes environment to deliver smarter insights, suggestions, and simplified operations. </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a href="https://www.infracloud.io/blogs/ai-workload-cost-optimization/">
-      <img width="250px" src="https://www.infracloud.io/assets/img/Blog/ai-workload-cost-optimization/cost-optimization-for-ai-cloud-workloads-1200x628.png">
-    </a>
-  </td>
-  <td>
-    <a href="https://www.infracloud.io/blogs/ai-workload-cost-optimization/">Cost Optimization Strategies for AI Workloads</a> <br/>
-    by Y Sarvani
-    <br/>
-    <br/>
-    <p> Explore the cost drivers of AI cloud workloads and discover proven strategies to cut expenses without compromising performance or scalability. </p>
   </td>
 </tr>
 
