@@ -1,3 +1,5 @@
+[![InfraCloud logo](https://www.infracloud.io/assets/img/infracloud-org-github-repo/infracloud-is-improving.jpg 'InfraCloud is Improving')](https://www.improving.com/thoughts/infracloud-acquisition/)
+
 [![InfraCloud logo](https://www.infracloud.io/assets/img/infracloud-org-github-repo/unleash-growth.png 'InfraCloud homepage')](https://www.infracloud.io/)
 
 # Hola` 👋
@@ -28,9 +30,8 @@ We value our company culture, collaboration with peers, and our contributions to
 Some of our achievements 💪
 
 - 2023 Stratus Award for Cloud Computing in the Kubernetes category winners
-- 1st Kubernetes Partner in India & 2nd in APAC
 - One of the very 1st CKA Engineers is from InfraCloud
-- 4 CKS, 51 CKA & 19 Certified Kubernetes App Developers & 2 Kubestronauts (1 LFX Mentor)
+- 4 CKS, 51 CKA & 19 Certified Kubernetes App Developers & 4 Kubestronauts (1 LFX Mentor)
   
 [![awards and achievements](https://www.infracloud.io/assets/img/infracloud-org-github-repo/awards-and-achievements.png 'awards & achievements')](https://www.infracloud.io/about-us/)
 
@@ -39,7 +40,6 @@ Some of our achievements 💪
 
 [![InfraCloud resources](https://www.infracloud.io/assets/img/infracloud-org-github-repo/infracloud-creations.png 'InfraCloud resources')](https://www.infracloud.io/)
 
-- [School of Kubernetes](https://www.infracloud.io/kubernetes-school/) 📚: 100% Free Kubernetes courses, training, and hands-on knowledge.
 - [Webinars](https://www.infracloud.io/webinars/) 📺: Live webinars designed for and by thought leaders on AI and cloud infrastructure.
 - [Mentoring Sessions](https://www.infracloud.io/career-cloud-native/) 🧑‍🏫: Our mentors helping accelerate your cloud native career or making the shift.
 - [Cloud Native Talks](https://www.infracloud.io/cloud-native-talks/) 🎙️: Access all the amazing talks, workshops, webinars, and sessions by Infranauts.
