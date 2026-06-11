@@ -1,4 +1,4 @@
-[![InfraCloud logo](https://www.infracloud.io/assets/img/infracloud-org-github-repo/infracloud-is-improving.jpg 'InfraCloud is Improving')](https://www.improving.com/thoughts/infracloud-acquisition/)
+[![InfraCloud logo](https://www.infracloud.io/assets/img/infracloud-org-github-repo/infracloud-is-improving.png 'InfraCloud is Improving')](https://www.improving.com/thoughts/infracloud-acquisition/)
 
 [![InfraCloud logo](https://www.infracloud.io/assets/img/infracloud-org-github-repo/unleash-growth.png 'InfraCloud homepage')](https://www.infracloud.io/)
 
